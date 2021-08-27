@@ -1,6 +1,9 @@
 # rhevolution
-![image](https://user-images.githubusercontent.com/55543185/131089724-77ba0191-0761-4fd5-9146-bc61166a27b6.png)
+### Utilisation
+* installer tableau Software
+
 * lancer un des dashboard (ils sont liés entre eux)
+  *  ![image](https://user-images.githubusercontent.com/55543185/131089724-77ba0191-0761-4fd5-9146-bc61166a27b6.png)
 
 ### screenshots
 ![image](https://user-images.githubusercontent.com/55543185/131088016-d6b40cfb-d26e-4583-91c4-25e5c50e09db.png)
