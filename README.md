@@ -11,6 +11,8 @@
 ---
 ![image](https://user-images.githubusercontent.com/55543185/131088218-24e696de-3927-4a5c-8b0a-040beda63667.png)
 ---
-![image](https://user-images.githubusercontent.com/55543185/131089266-7e9b1b4a-6f9e-4d09-a2a4-d6e52d76fea4.png)
+![image](https://user-images.githubusercontent.com/55543185/131090480-43ca77c7-a1bf-414f-8fdf-63fbd62626ef.png)
+* pour les derniers arrivants, j'utilise la dernière date du mois dans le fichier plutôt que la date du jour, pour avoir des données, mais normalement ce devrait être TODAY()
+
 ---
-![image](https://user-images.githubusercontent.com/55543185/131089493-7e5226e7-9c3d-40ce-97f3-df932efffe01.png)
+![image](https://user-images.githubusercontent.com/55543185/131092614-60820fb2-0ece-4b25-a927-3d46792bd536.png)
